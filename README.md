@@ -1,4 +1,4 @@
-# Magento 2 Split Order Extension by MageTop
+# Magento 2 Split Order Extension by Magetop
 
 **Magento 2 Split Order Payment** is an excellent plugin that allows users to split order payment with multiple participants. This plugin has an option to set minimum order amount for split order payments.
 
@@ -11,13 +11,13 @@
 - Compatible with Magento bookings.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-split-order-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
